@@ -8,7 +8,7 @@ PCA is a dimensionality reduction technique that finds directions in the data sp
 
 ## 1. Data Setup
 
-Let \(X \in \mathbb{R}^{n \times d}\) be centered data:
+Let $X \in \mathbb{R}^{n \times d}$ be centered data:
 
 - \(n\): number of samples
 - \(d\): number of features
